@@ -1,7 +1,6 @@
 import { View, Text, StyleSheet, TouchableOpacity, Alert } from 'react-native'
-import React, { use } from 'react'
 import Board from './Board'
-import { useState, useEffect} from 'react'
+import React, { useState, useEffect} from 'react'
 
 
 const Game = () => {
